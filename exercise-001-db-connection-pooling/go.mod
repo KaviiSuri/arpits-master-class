@@ -1,4 +1,4 @@
-module github.com/KaviiSuri/personal/arpits-master-class
+module github.com/KaviiSuri/personal/arpits-master-class/exercise-001-db-connection-pooling
 
 go 1.22.0
 
